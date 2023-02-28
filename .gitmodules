@@ -1,0 +1,12 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/mcuFramework/core_arterytek_at32f415.git
+[submodule "mcuf"]
+	path = mcuf
+	url = https://github.com/mcuFramework/mcuf.git
+[submodule "os_cmsis_rtos"]
+	path = os_cmsis_rtos
+	url = https://github.com/mcuFramework/os_cmsis_rtos.git
+[submodule "project"]
+	path = project
+	url = https://github.com/mcuFramework/project_arterytek_at32f415.git
